@@ -1,4 +1,3 @@
-// models/Appointment.js
 const mongoose = require('mongoose');
 
 const AppointmentSchema = new mongoose.Schema({
@@ -8,7 +7,6 @@ const AppointmentSchema = new mongoose.Schema({
   time: { type: String, required: true },
   comments: { type: String },
   status: { type: String, enum: ['pending', 'confirmed', 'cancelled'], default: 'pending' },
-  createdAt: { type: Date, default: Date.now },
-});
+}, { timestamps: true });
 
 module.exports = mongoose.model('Appointment', AppointmentSchema);
