@@ -1,0 +1,30 @@
+.card {
+  position: relative;
+  background: white;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.star {
+  width: 20px;
+  height: 20px;
+  color: #FFC107;
+}
+
+.date-time {
+  color: #6B7280;
+  font-size: 0.875rem;
+}
+
+.description {
+  line-height: 1.6;
+}
+
+.author {
+  margin-top: 1.5rem;
+  font-weight: 500;
+}
