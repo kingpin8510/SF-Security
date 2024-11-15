@@ -49,11 +49,11 @@ SafeMax Security is a leading cybersecurity company that provides top-notch Vuln
 
 ---
 
-### Design and Kayout
+### 🎨 Design & Layout
 The webpage features a modern and professional design to reflect SafeMax’s focus on innovation and trust. It utilizes a consistent color scheme, sleek typography, and interactive elements for an engaging user experience. All sections are carefully structured to guide users through SafeMax’s services and encourage them to take action.
 
 ---
-### Future Enhancements
+### 📋 Future Enhancements
 - **Enhanced CMS**: Additional features for more comprehensive query and appointment management along with **user authentication**.
 - **Advanced Security**: Implementing stricter security protocols for data handling.
 - **Additional Animations**: More interactive animations for an engaging user experience.
